@@ -3,4 +3,4 @@ layout: default
 permalink: /
 ---
 
-Hello world
+{% include landing.html %}
