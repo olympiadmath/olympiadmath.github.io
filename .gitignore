@@ -1,0 +1,7 @@
+  
+# Ruby Gems
+*.gem
+
+# Design Files
+*.psd
+*.ai
