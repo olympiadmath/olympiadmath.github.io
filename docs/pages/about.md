@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 weight: 3
 ---
+<b><h2>About MMO</h2></b>
 
-# **About MMO**
-
-Hi I am **{{ MetriX Mathematical Olympiad}}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ MetriX Mathematical Olympiad aka MMO is an online single stage olympiad similar in level with <a href="http://www.imo-official.org/">IMO</a>. It has ben also help previous year in 2020 and gained quite much popularity and appreciation by the participants. This year again we are going to held MMO 2021 contest.You can check the previous year papers here.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
